@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme Vaz</h1>
+<h1 align="center">Guilherme Bruno Coelho Vaz</h1>
 
 ## Sobre mim
 - Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados.
