@@ -9,7 +9,7 @@
 ## Tecnologias
 - Excel (intermediário)
 - Power BI (intermediário)
-- Python (básico)
+- Python (intermediário)
 - SQL (básico)
 - Git e GitHub (básico)
 - Microsoft Office (intermediário)
