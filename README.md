@@ -19,7 +19,7 @@
 
 - **Análise de Falhas PCM** — Python + SQL
   Banco relacional e indicadores de manutenção industrial (MTTR, ranking de falhas, tempo de parada por equipamento).
-  📂 Repositório: _adicionar link_
+  📂 [Repositório](https://github.com/guilhermebruno12/Analise-falhas-PCM)
 
 ## Tecnologias
 - **Linguagens:** Python (Pandas, Streamlit, Plotly, openpyxl), SQL (SQLite, SQL Server — CTEs, window functions)
